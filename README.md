@@ -10,11 +10,11 @@ The purpose of this analysis is to help Big Market optimize their clients market
 * There are 94 paid Vine account reviews
 * There are 40471 unpaid non-Vine account reviews
 
-![alt text](?raw=true)
+![alt text](https://github.com/quorinne/Amazon_Vine_Analysis/blob/main/Images/PaidvUnpaidTotal.png?raw=true)
 
 * Of the 94 Vine reviews 48 reviews or 51.06% were given a rating of Five Stars
 * Of the 40471 non-Vine reviews 15663 reviews or 38.70% were given a rating of Five Stars
-![alt text](?raw=true)
+![alt text](https://github.com/quorinne/Amazon_Vine_Analysis/blob/main/Images/PaidvUnpaidPercentage.png?raw=true)
 
 ##Summary
 
